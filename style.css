@@ -3,7 +3,7 @@ body {
 }
 h1 {
   font-family: 'Cormorant Garamond', serif;
-  font-size: 40px;
+  font-size: 35px;
   margin: 5px;
 }
 h2 {
@@ -24,7 +24,7 @@ p {
 }
 
 * {
-  margin: 0;
+  margin: 50;
   padding: 0;
 }
 
@@ -35,7 +35,7 @@ nav {
 }
 
 ul {
-
+  margin-left: 60px;
 }
 
 ul li {
@@ -50,4 +50,8 @@ ul li  a {
   font-size: 15px
   font-family: 'Tiro Gurmukhi', serif;
   padding: 0 20px;
+}
+
+ul li  a:hover {
+  color: white;
 }
