@@ -10,14 +10,15 @@ h2 {
   color: black;
   font-family: 'Cormorant Garamond', serif;
   font-size: 25px;
-  margin: 0px;
+  margin: 5px;
 }
 h3 {
   color: black;
   font-family: 'Cormorant Garamond', serif;
   font-size: 20px;
-  margin: 0px;
+  margin: 5px;
 }
+
 p {
   font-family: 'Tiro Gurmukhi', serif;
   font-size: 18px;
